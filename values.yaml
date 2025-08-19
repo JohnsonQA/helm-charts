@@ -1,0 +1,6 @@
+#Using values we can set the versions and any re-usbale code dynamically and globally
+deployment:
+  replicas: 4
+  imageVersion: stable-otel
+service:
+  targetPort: 80
