@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v2 #v2 is the helm apiversion 
 name: nginx
 version: 1.0.0 #chart version
 description: nginx helm chart description
